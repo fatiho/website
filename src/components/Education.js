@@ -19,7 +19,6 @@ const Education = () => {
                             <h3>University of Pennsylvania</h3>
                             <h5>August 2017 <em>to</em> June 2021</h5>
                             <h5>Dual Degree</h5>
-                            <p>GPA: 3.40/4.00</p>
                             <p><b>Degrees:</b> Bachelor of Science in Engineering <em>and</em> Bachelor of Arts</p>
                             <p><b>Majors:</b> Computer Science, International Relations</p>
                             <p><b>Minors:</b> Economics, History, Mathematics</p>
